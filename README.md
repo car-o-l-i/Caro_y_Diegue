@@ -11,3 +11,4 @@
 | Material para la figura| Materiales para construir la figura de Rebeca | - | [$80]                      |
 | Batería recargable     | Batería para alimentar el proyecto | 1           | [no definido]               |
 | Cables y conectores    | Cables y conectores para la conexión | indefinido | [$39 por 40 cables Dupont o similares] |
+
