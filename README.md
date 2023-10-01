@@ -1,4 +1,4 @@
-# Carol_y_Diego
+Carol_y_Diego
 ### Rebeca con cantaro 
 ## Materiales utilizados 
 
