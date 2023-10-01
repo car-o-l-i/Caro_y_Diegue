@@ -1,4 +1,4 @@
-# Caro_y_Diegue
+# Carol_y_Diego
 # Rebeca con cantaro 
 ## Materiales utilizados 
 
@@ -11,4 +11,20 @@
 | Material para la figura| Materiales para construir la figura de Rebeca | - | [$80]                      |
 | Batería recargable     | Batería para alimentar el proyecto | 1           | [no definido]               |
 | Cables y conectores    | Cables y conectores para la conexión | indefinido | [$39 por 40 cables Dupont o similares] |
+## software utilizado
+| Nombre del Software  | Versión   | Tipo             |
+| -------------------- | --------- | ---------------- |
+| Visual Studio Code   | 1.82.2    | Editor de código |
+## Dibujo del prototipo a desarrollar
+
+## Protocolo de comunicacion
+| Protocolo  | Descripción                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| Bluetooth  | El ESP32 es compatible con Bluetooth, lo que permite la comunicación inalámbrica con otros dispositivos Bluetooth, como sensores, teléfonos móviles y otros módulos ESP32. Esto es útil para proyectos que involucran comunicación cercana y de corto alcance. |
+
+## Arquitectura
+
+## Base de datos 
+
+
 
