@@ -1,5 +1,5 @@
 Carol_y_Diego
-### Rebeca con cantaro 
+## Rebeca con cantaro 
 ## Materiales utilizados 
 
 | Nombre del Componente | Descripción                   | Cantidad      | Precio (en pesos mexicanos) |
@@ -16,7 +16,8 @@ Carol_y_Diego
 | -------------------- | --------- | ---------------- |
 | Visual Studio Code   | 1.82.2    | Editor de código |
 ## Dibujo del prototipo a desarrollar
-(https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/rebeca.jpg)
+![Descripción de la base de datos](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/rebeca.jpg)
+
 ## Protocolo de comunicacion
 | Protocolo  | Descripción                                                                                           |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
