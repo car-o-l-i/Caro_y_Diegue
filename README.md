@@ -1,5 +1,5 @@
 # Carol_y_Diego
-# Rebeca con cantaro 
+### Rebeca con cantaro 
 ## Materiales utilizados 
 
 | Nombre del Componente | Descripción                   | Cantidad      | Precio (en pesos mexicanos) |
