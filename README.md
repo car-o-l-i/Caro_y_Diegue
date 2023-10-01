@@ -23,6 +23,7 @@ Carol_y_Diego
 | Bluetooth  | El ESP32 es compatible con Bluetooth, lo que permite la comunicación inalámbrica con otros dispositivos Bluetooth, como sensores, teléfonos móviles y otros módulos ESP32. Esto es útil para proyectos que involucran comunicación cercana y de corto alcance. |
 
 ## Arquitectura
+![Descripción de la arquitectura](URL_DE_LA_IMAGEN)
 
 ## Base de datos 
 
