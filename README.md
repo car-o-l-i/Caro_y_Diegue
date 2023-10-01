@@ -26,6 +26,6 @@ Carol_y_Diego
 ![Descripción de la arquitectura](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/Colorful%20Clean%20Project%20Planning%20Concept%20Map%20Graph.png)
 
 ## Base de datos 
-![Descripción de la arquitectura](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/Colorful%20Clean%20Project%20Planning%20Concept%20Map%20Graph.png)
+![Descripción de la arquitectura](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/diagramaRebeca_Cantaro.png)
 
 
