@@ -16,7 +16,7 @@ Carol_y_Diego
 | -------------------- | --------- | ---------------- |
 | Visual Studio Code   | 1.82.2    | Editor de código |
 ## Dibujo del prototipo a desarrollar
-![Descripción de la base de datos](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/rebeca.jpg)
+![Descripción de la base de datos](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/rebecacc.png)
 
 ## Protocolo de comunicacion
 | Protocolo  | Descripción                                                                                           |
