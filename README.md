@@ -32,3 +32,7 @@ Carol_y_Diego
 ## Circuito en wokwi
 ![d4c16b57-af53-4756-946a-51df42ed9227](https://github.com/car-o-l-i/Caro_y_Diegue/assets/143035138/6dcd8dd0-6575-4ec3-bc1c-8ce21674d1ab)
 
+##  dibujo mejorado del prototipo
+![d63b8920-9c21-4399-9cf6-eb5e1369516b](https://github.com/car-o-l-i/Caro_y_Diegue/assets/143035138/0e552f81-e0a0-493b-9985-778d0631fd30)
+
+
