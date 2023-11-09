@@ -39,5 +39,12 @@ Carol_y_Diego
 * un micro sevomotor con torque de 1.8kgf.cm $59
 * juego de 120 cables tipo Dupont* de 20cm $99
 * modulo buzzer pasivo $29
-* 4 leds 
+* 4 leds
+  | Producto                       | Descripción                               | Precio  |
+|---------------------------------|-------------------------------------------|---------|
+| Micro sevomotor                | Torque de 1.8kgf.cm                       | $59     |
+| Juego de 120 cables Dupont     | Longitud de 20cm                          | $99     |
+| Módulo buzzer pasivo           |                                           | $29     |
+| 4 LEDs                         |                                           |         |
+
 
