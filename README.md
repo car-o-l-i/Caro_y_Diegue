@@ -42,7 +42,7 @@ Carol_y_Diego
 | Micro sevomotor              | Torque de 1.8kgf.cm        | $59    |
 | Juego de 120 cables Dupont   | Longitud de 20cm           | $99    |
 | Módulo buzzer pasivo         |                            | $29    |
-| 4 LEDs                       |                            |        |
+| 4 LEDs                       |                            | $20    |
 
 ##  Lista de software.
 utilizaremos varias herramientas de software en nuestro proyecto de IoT. Para controlar y gestionar componentes específicos, hemos decidido utilizar Arduino. Esta plataforma de hardware y su IDE asociado son ideales para programar microcontroladores y nos permitirán llevar a cabo las tareas necesarias para X en nuestro proyecto.
