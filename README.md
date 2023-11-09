@@ -29,4 +29,6 @@ Carol_y_Diego
 ## Base de datos 
 ![Descripción de la base de datos](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/diagramaRebeca_Cantaro.png)
 
+## Circuito en wokwi
+![d4c16b57-af53-4756-946a-51df42ed9227](https://github.com/car-o-l-i/Caro_y_Diegue/assets/143035138/6dcd8dd0-6575-4ec3-bc1c-8ce21674d1ab)
 
