@@ -35,4 +35,9 @@ Carol_y_Diego
 ##  dibujo mejorado del prototipo
 ![d63b8920-9c21-4399-9cf6-eb5e1369516b](https://github.com/car-o-l-i/Caro_y_Diegue/assets/143035138/0e552f81-e0a0-493b-9985-778d0631fd30)
 
+## lista de materiales
+* un micro sevomotor con torque de 1.8kgf.cm $59
+* juego de 120 cables tipo Dupont* de 20cm $99
+* modulo buzzer pasivo $29
+* 4 leds 
 
