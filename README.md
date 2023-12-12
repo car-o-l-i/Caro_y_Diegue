@@ -79,9 +79,8 @@ Para la fase final de nuestro proyecto y para la gestión más amplia de todos l
 
 ##  Imagenes de prueba
 ![Descripción de la base de datos](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/rebecacc.png)
-![d](p2.jpeg)
-![d](im(p2.jpg))
-![]((p1.jpeg))
+![d](p1.jpeg)
+![]((p2.jpg))
 ![]((p3.jpg))
 ![]((p4.jpg))
 ![]((p5.jpg))
@@ -90,7 +89,6 @@ Para la fase final de nuestro proyecto y para la gestión más amplia de todos l
 ![]((p8.jpg))
 ![]((p9.jpg))
 ![]((p10.jpg))
-
 
 
 
