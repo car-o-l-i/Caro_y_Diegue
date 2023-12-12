@@ -91,6 +91,7 @@ Para la fase final de nuestro proyecto y para la gestión más amplia de todos l
 ![d](p10.jpg)
 
 ## Videos
-[![](miniatura_intro.jpg)](https://www.youtube.com/watch?v=TUROHqgW2yM)
+[![Video de ejemplo](v1.mp4)
+
 
 
