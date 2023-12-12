@@ -91,7 +91,8 @@ Para la fase final de nuestro proyecto y para la gestión más amplia de todos l
 ![d](p10.jpg)
 
 ## Videos
-[![Video de ejemplo](v1.mp4)
+[![Texto Alternativo](p2.jpg)](video.mp4)
+
 
 
 
