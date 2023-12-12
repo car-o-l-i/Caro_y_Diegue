@@ -78,8 +78,9 @@ Además, para la programación en Python, hemos optado por Thonny, un entorno de
 Para la fase final de nuestro proyecto y para la gestión más amplia de todos los componentes IoT, planeamos aprovechar PlatformIO. Esta plataforma de desarrollo de código abierto es muy versátil y compatible con diversas placas de desarrollo, incluyendo Arduino. Nos permitirá gestionar bibliotecas y entornos de desarrollo de manera eficiente, además de integrarse con servicios en la nube, lo que será fundamental para nuestra aplicación.
 
 ##  Imagenes de prueba
-![](p2.jpeg)
-![](im(p2.jpeg))
+![Descripción de la base de datos](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/rebecacc.png)
+![d](p2.jpeg)
+![d](im(p2.jpeg))
 ![]((p1.jpeg))
 ![]((p3.jpeg))
 ![]((p4.jpeg))
