@@ -39,10 +39,36 @@ Carol_y_Diego
 
 | Producto                     | Descripción                | Precio |
 |------------------------------|----------------------------|--------|
-| Micro sevomotor              | Torque de 1.8kgf.cm        | $59    |
+| Micro sevomotor              | Torque de 1.8kgf.cm        | $100    |
 | Juego de 120 cables Dupont   | Longitud de 20cm           | $99    |
 | Módulo buzzer pasivo         |                            | $29    |
 | 4 LEDs                       |                            | $20    |
+| Serie de luces LED           | Varios colores, 5 metros   | 20    |
+| ESP32                        | Módulo de desarrollo       | $358    |
+| Silicona                      | Tubo de 100ml              | $12    |
+| Tela de dos tipos            | 1 metro cada tipo          | $60    |
+| Tijeras                      | Para cortar materiales     | $10    |
+| Arcilla                      | Paquete de modelado        | $8     |
+| Unicel                       | Planchas de 30x30cm        | $5     |
+| Papel aluminio               | Rollo de 5 metros          | $20     |
+| Herramientas de modelado     | Set variado de modelado    | $25    |
+| Hilos de plástico            | Variados colores           | $15    |
+| Cinta                        | Rollo de 10 metros         | $4     |
+| Sensor de proximidad         | Modelo detecta hasta 30cm  | $15    |
+| Enguado                       | 500ml                      | $6     |
+| Periódico                    | Paquete de hojas           | $3     |
+| Estambre                     | Madejas variadas           | $9     |
+| Plumones                     | Plumoneas de colores         | $12    |
+| Madera                       | Tablas variadas            | $20    |
+| Palo de escoba               | Madera, longitud estándar  | $5     |
+| Cepillo                      | Para pintura               | $10     |
+| Clavos                       | Caja surtida               | $8     |
+| Alambre galvanizado          | Rollo de 20 metros         | $150    |
+| Algodón                      | Bolsa de bolas             | $20     |
+| Pistola de silicona          | Incluye 4 barras           | $20    |
+| Hilo y aguja                 | Paquete de costura         | $5     |
+| Manos y pies de plástico      | Modelo para proyectos      | $0    |
+
 
 ##  Lista de software.
 utilizaremos varias herramientas de software en nuestro proyecto de IoT. Para controlar y gestionar componentes específicos, hemos decidido utilizar Arduino. Esta plataforma de hardware y su IDE asociado son ideales para programar microcontroladores y nos permitirán llevar a cabo las tareas necesarias para X en nuestro proyecto.
