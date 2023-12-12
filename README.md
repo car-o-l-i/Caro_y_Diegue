@@ -80,15 +80,15 @@ Para la fase final de nuestro proyecto y para la gestión más amplia de todos l
 ##  Imagenes de prueba
 ![Descripción de la base de datos](https://github.com/car-o-l-i/Caro_y_Diegue/blob/main/rebecacc.png)
 ![d](p1.jpeg)
-![]((p2.jpg))
-![]((p3.jpg))
-![]((p4.jpg))
-![]((p5.jpg))
-![]((p6.jpg))
-![]((p7.jpg))
-![]((p8.jpg))
-![]((p9.jpg))
-![]((p10.jpg))
+![d]((p2.jpg))
+![d]((p3.jpg))
+![d]((p4.jpg))
+![d]((p5.jpg))
+![d]((p6.jpg))
+![d]((p7.jpg))
+![d]((p8.jpg))
+![d]((p9.jpg))
+![d]((p10.jpg))
 
 
 
